@@ -2,7 +2,6 @@
 
 ![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
 
-[Video Tutorial on Youtube](https://youtu.be/4GUVz2psWUg)
 
 Some Features:
 
@@ -19,7 +18,6 @@ Some Features:
 -   🖼️ Edit Cover Image and Profile Image
 -   📷 Image Uploads using Cloudinary
 -   🔔 Send Notifications
--   🌐 Deployment
 -   ⏳ And much more!
 
 ### Setup .env file
